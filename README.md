@@ -3,23 +3,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <!-- <a href="https://github.com/roerohan/Template">
+  <!-- <a href="https://github.com/roerohan/codespaces">
     <img src="https://project-logo.png" alt="Logo" width="80">
   </a> -->
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Codespaces</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    A reusable codespace for multiple repositories.
     <br />
-    <a href="https://github.com/roerohan/Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/roerohan/codespaces"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/roerohan/Template">View Demo</a>
+    <a href="https://github.com/roerohan/codespaces">View Demo</a>
     ·
-    <a href="https://github.com/roerohan/Template/issues">Report Bug</a>
+    <a href="https://github.com/roerohan/codespaces/issues">Report Bug</a>
     ·
-    <a href="https://github.com/roerohan/Template/issues">Request Feature</a>
+    <a href="https://github.com/roerohan/codespaces/issues">Request Feature</a>
   </p>
 </p>
 
@@ -29,12 +29,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contributors](#contributors-)
@@ -44,61 +39,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`roerohan`, `repo`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
- 
-1. Clone the Repo
-```sh
-git clone https://github.com/roerohan/Template.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-
+GitHub allows a limited number of codespaces. Reuse this codespace for all projects.
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/roerohan/Template/issues) for a list of proposed features (and known issues).
-
+Clone repositories on this codespace, and push as required.
 
 
 <!-- CONTRIBUTING -->
@@ -121,9 +68,8 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [roerohan-url]: https://roerohan.github.io
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/roerohan/Template/issues
+[issues-url]: https://github.com/roerohan/codespaces/issues
